@@ -1,3 +1,11 @@
+/*
+ * Program To Show Exam[le Of Swing Utilization 
+ * Author: Thuku Josphat Wamwago
+ * Reg No: CT101/G/19448/23
+ * Date: 19/3/2025
+ * Version: 1
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
